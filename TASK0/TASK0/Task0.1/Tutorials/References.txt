@@ -1,0 +1,11 @@
+References
+Python
+• https://www.python.org/
+• https://www.python.org/downloads/windows/
+• https://www.python.org/downloads/release/python-374/
+• https://docs.python.org/3/tutorial/
+OpenCV
+• https://pypi.org/project/opencv-python/
+• https://pypi.org/project/opencv-contrib-python/
+• https://docs.opencv.org/master/d0/de3/tutorial_py_intro.html
+• https://docs.opencv.org/master/d6/d00/tutorial_py_root.html
